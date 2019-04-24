@@ -5,7 +5,7 @@ NexT 内部提供数学公式渲染的引擎，这样你就不需要自己手动
 
 
 ```yml
-math:
+math: 
   enable: true
   ...
   engine: mathjax
