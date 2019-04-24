@@ -1,7 +1,7 @@
 <h1 align="center">数学公式</h1>
 
 NexT 内部提供数学公式渲染的引擎，这样你就不需要自己手动在模板中引入 JS 或者 CSS；
-只需要将 `next/_config.yml` 中 `math` 的 `enable` 选项改为 `true`，并选择对应的渲染引擎即可：
+只需要将 `next/_config.yml` 中 `math` 的 `enable` 选项改为 `true`，并选择对应的渲染引擎即可
 
 
 ```yml
