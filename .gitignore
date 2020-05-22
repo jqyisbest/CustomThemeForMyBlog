@@ -5,6 +5,7 @@
 yarn.lock
 package-lock.json
 node_modules/
+.git-credential-jqy
 
 # Ignore optional external libraries
 source/lib/*
